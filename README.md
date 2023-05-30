@@ -14,7 +14,7 @@
 
 4. Every branch критерум тест случаеви
 
-![](Every Branch Statement.png)
+![](Every_Branch_Statement.png)
 
 Користени тестови:
 1. User = null 
